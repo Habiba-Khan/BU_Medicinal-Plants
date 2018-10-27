@@ -2,7 +2,6 @@ Medicinal-Plants
 ================
 ================
 
-Total Plants --> 10
 Total Images --> 1054
 
 Medicinal Plant's name & number of images
